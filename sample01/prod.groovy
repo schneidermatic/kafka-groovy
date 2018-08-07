@@ -6,7 +6,7 @@ import org.apache.kafka.clients.producer.Producer
 import org.apache.kafka.clients.producer.KafkaProducer
 import org.apache.kafka.clients.producer.ProducerRecord
 
-class App {
+class Prod {
    
    static void main(args) throws Exception{
 
