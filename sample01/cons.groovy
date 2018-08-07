@@ -1,4 +1,4 @@
-#!/bin/usr/env groovy
+#!/usr/bin/env groovy
 
 @Grab(group='org.apache.kafka', module='kafka-clients', version='2.0.0')
 
